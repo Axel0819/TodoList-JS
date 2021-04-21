@@ -1,6 +1,6 @@
-# Webpack starter
+# Todo List JS
 
-Este es el proyecto inicial para crear aplicaciones usando Webpack
+Esta es una practica de un curso de JavaScript
 
 ## Notas:
 
